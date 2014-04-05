@@ -1,4 +1,5 @@
 name: STEM Club Blog
 markdown: redcarpet
 pygments: true
-baseurl: /blog
+source: http://stemclub.github.io/blog
+destination: http://stemclub.github.io/blog/_site
